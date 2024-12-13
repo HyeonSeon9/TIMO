@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: TIMO
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/
+    suffix: .html
+server:
+  port: 8451
